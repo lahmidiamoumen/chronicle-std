@@ -6,7 +6,6 @@ import {stdJson} from "forge-std/StdJson.sol";
 import {StdStyle} from "forge-std/StdStyle.sol";
 
 import {Chaincheck} from "./Chaincheck.sol";
-
 import {IAuth} from "src/auth/IAuth.sol";
 
 /**
